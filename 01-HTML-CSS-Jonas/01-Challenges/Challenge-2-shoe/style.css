@@ -6,12 +6,50 @@
 body {
   font-family: sans-serif;
   line-height: 1.4;
+  /* position: relative; */
+}
+
+.sale {
+  position: absolute;
+  display: inline-block;
+  text-transform: uppercase;
+  top: -15px;
+  left: -15px;
+  background-color: red;
+  color: #fff;
+  padding: 2px 12px;
+  letter-spacing: 2px;
+}
+
+.color {
+  background-color: #000;
+  height: 22px;
+  width: 22px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.color-blue {
+  background-color: #2f6ee2;
+}
+.color-red {
+  background-color: #ec2f2f;
+}
+.color-yellow {
+  background-color: #f0bf1e;
+}
+.color-green {
+  background-color: #90cc20;
+}
+.color-brown {
+  background-color: #885214;
 }
 
 .product {
   border: 4px solid black;
   width: 825px;
   margin: 50px auto;
+  position: relative;
   /* margin-left: auto;
   margin-right: auto;
   margin-top: 200px;
