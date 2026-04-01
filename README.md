@@ -8,3 +8,4 @@ An intensive, daily log of my journey from absolute scratch to professional web 
   - **01-Challenges**: My independent solutions to course challenges.
   - **02-Project-Practice**: Follow-along code and experiments from the main course projects.
     **Current Focus:** Finishing Omnifood project! 🎯
+    echo " " >> README.md
