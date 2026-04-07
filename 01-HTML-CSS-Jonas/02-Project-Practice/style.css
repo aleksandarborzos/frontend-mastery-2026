@@ -353,7 +353,7 @@ footer {
 }
 
 .related-link:link {
-  font-size: 17px;
+  font-size: 14px;
   font-weight: bold;
   font-style: normal;
   margin-bottom: 5px;
@@ -362,7 +362,7 @@ footer {
 
 .related-author {
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 13px;
   font-weight: normal;
   font-style: italic;
 }
