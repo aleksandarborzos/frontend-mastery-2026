@@ -115,10 +115,6 @@ body {
   color: black;
 }
 
-/* .more-info: {
-  margin-bottom: 10px;
-} */
-
 .more-info:hover,
 .more-info:active {
   display: inline-block;
