@@ -8,3 +8,4 @@ An intensive, daily log of my journey from absolute scratch to professional web 
   - **01-Challenges**: My independent solutions to course challenges.
   - **02-Project-Practice**: Follow-along code and experiments from the main course projects.
   - **03-Design**: Mastering Web Design with Jonas Schmedtmann.
+  - **04-Components**: Building individual components with Jonas.
